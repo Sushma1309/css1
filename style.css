@@ -1,0 +1,34 @@
+.first{
+    color: red;
+}
+.first1{
+    color: red;
+    font-style: italic;
+}
+.second{
+    color: brown;
+}
+#basic{
+    text-decoration: underline;
+    font-style: italic;
+}
+#one{
+    text-decoration: line-through;
+    font-size: 144;
+    font-weight: 700;
+
+}
+#two{
+   background-color: yellow;
+   font-size: 114;
+   font-weight: 700;
+}
+.heading{
+    color: brown;
+    letter-spacing: 6px;
+}
+#image{
+    color: brown;
+    background-color: yellow;
+    font-style: italic;
+}
